@@ -11,4 +11,5 @@ void setup() {
 void loop() {
   int angle = 80;  //각도 변수
   Serial.println(?);  //여기에 함수 호출
+  delay(5000);
 }
